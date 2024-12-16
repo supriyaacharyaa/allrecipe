@@ -1,0 +1,20 @@
+ul li a{
+  text-decoration: none;
+  color: red;
+
+}
+ul{
+  list-style: none;
+}
+.t :hover{
+  color: white;
+}
+.orange{
+  background: orange;
+  color: white;
+}
+.width{
+  height: 100vh;
+
+  overflow: auto;
+}
