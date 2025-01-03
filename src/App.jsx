@@ -6,7 +6,7 @@ import Header from './Component/Header'
 import Home from './Pages/Home'
 import { Router, Routes } from 'react-router'
 import Detail from './Pages/Detail'
-
+import Footer from './Component/Footer'
 function App() {
 
 
