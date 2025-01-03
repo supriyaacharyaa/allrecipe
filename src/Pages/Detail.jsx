@@ -18,7 +18,7 @@ function Detail() {
     <div>
       <div className="container">
      
-      <div className="shadow p-3 width align-center text-center">
+      <div className="shadow p-3  align-center text-center">
       
         <h2>{d.name}</h2>
 <img className='w-100 ' key={d.id} src={d.image} alt="" />
